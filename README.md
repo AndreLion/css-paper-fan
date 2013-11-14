@@ -1,4 +1,3 @@
-css-paper-fan
-=============
+Demo and Source Code:
 
-CSS3 effect and animation.
+http://andrelion.github.io/css-paper-fan/
